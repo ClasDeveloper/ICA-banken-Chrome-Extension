@@ -1,0 +1,11 @@
+# ICA Banken Chrome Extension
+
+A Chrome extension to catogorise your expenses and calculate how much you spend in a given time period
+
+# Why is this extension open source?
+
+This extension is open source to show full transparency that we do not collect any data from your account. In the extension that we have published we have not used any obfuscator tools to hide the source code.
+
+# Licence
+
+This project is licensed under the MIT License.
